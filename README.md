@@ -23,3 +23,4 @@ I will make this project in a time span of seven weeks. The first three weeks wi
 for actually developing the project.
 
 
+praat meer over waarom je python hebt en wat je planning is 
